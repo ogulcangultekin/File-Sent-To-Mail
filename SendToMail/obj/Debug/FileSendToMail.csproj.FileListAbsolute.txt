@@ -1,0 +1,10 @@
+C:\Users\Casper\Desktop\Github\SendToMail\SendToMail\bin\Debug\FileSendToMail.exe.config
+C:\Users\Casper\Desktop\Github\SendToMail\SendToMail\bin\Debug\FileSendToMail.exe
+C:\Users\Casper\Desktop\Github\SendToMail\SendToMail\bin\Debug\FileSendToMail.pdb
+C:\Users\Casper\Desktop\Github\SendToMail\SendToMail\obj\Debug\FileSendToMail.csprojAssemblyReference.cache
+C:\Users\Casper\Desktop\Github\SendToMail\SendToMail\obj\Debug\SendToMail.Form1.resources
+C:\Users\Casper\Desktop\Github\SendToMail\SendToMail\obj\Debug\FileSendToMail.Properties.Resources.resources
+C:\Users\Casper\Desktop\Github\SendToMail\SendToMail\obj\Debug\FileSendToMail.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\Github\SendToMail\SendToMail\obj\Debug\FileSendToMail.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\Github\SendToMail\SendToMail\obj\Debug\FileSendToMail.exe
+C:\Users\Casper\Desktop\Github\SendToMail\SendToMail\obj\Debug\FileSendToMail.pdb

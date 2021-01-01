@@ -1,0 +1,10 @@
+C:\Users\Casper\source\repos\SendToMail\SendToMail\bin\Debug\FileSendToMail.exe.config
+C:\Users\Casper\source\repos\SendToMail\SendToMail\bin\Debug\FileSendToMail.exe
+C:\Users\Casper\source\repos\SendToMail\SendToMail\bin\Debug\FileSendToMail.pdb
+C:\Users\Casper\source\repos\SendToMail\SendToMail\obj\Debug\FindSendToMail.csprojAssemblyReference.cache
+C:\Users\Casper\source\repos\SendToMail\SendToMail\obj\Debug\SendToMail.Form1.resources
+C:\Users\Casper\source\repos\SendToMail\SendToMail\obj\Debug\FileSendToMail.Properties.Resources.resources
+C:\Users\Casper\source\repos\SendToMail\SendToMail\obj\Debug\FindSendToMail.csproj.GenerateResource.cache
+C:\Users\Casper\source\repos\SendToMail\SendToMail\obj\Debug\FindSendToMail.csproj.CoreCompileInputs.cache
+C:\Users\Casper\source\repos\SendToMail\SendToMail\obj\Debug\FileSendToMail.exe
+C:\Users\Casper\source\repos\SendToMail\SendToMail\obj\Debug\FileSendToMail.pdb
